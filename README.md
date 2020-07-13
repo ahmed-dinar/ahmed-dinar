@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+<a href="https://www.linkedin.com/in/kingrayhan" rel="nofollow"><img src="https://img.shields.io/badge/Connect-black?color=0073B0&labelColor=0073B0&logo=linkedin&logoColor=ffffff"></a>
 
 <!--
 **ahmed-dinar/ahmed-dinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
