@@ -1,11 +1,11 @@
-### Hi 👋
-
-<a class="mr-3 tips" target="_top" href="mailto:ahmeddinar.cs@gmail.com" original-title="madinar.cse@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-black?color=DB4437&labelColor=DB4437&logo=gmail&logoColor=ffffff">
-</a>
-<a href="https://www.linkedin.com/in/ahmeddinar" rel="nofollow">
-  <img src="https://img.shields.io/badge/Connect-black?color=0073B0&labelColor=0073B0&logo=linkedin&logoColor=ffffff">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmeddinar" rel="nofollow">
+    <img src="https://img.shields.io/badge/Connect-black?color=0073B0&labelColor=0073B0&logo=linkedin&logoColor=ffffff">
+  </a>
+  <a href="https://twitter.com/ahmeddinarbd" rel="nofollow">
+    <img src="https://img.shields.io/badge/Twitter-black?color=1A91DA&labelColor=1A91DA&logo=twitter&logoColor=ffffff">
+  </a>
+</p>
 
 <!--
 **ahmed-dinar/ahmed-dinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
