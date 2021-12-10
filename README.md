@@ -7,7 +7,3 @@
   </a>
 </p>
 
-[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-dinar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-dinar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
